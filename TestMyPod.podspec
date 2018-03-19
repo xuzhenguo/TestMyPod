@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'TestMyPod'
-    s.version      = '0.1.0'
+    s.version      = '0.1.1'
     s.summary      = 'An easy way to use NSLog'
     s.homepage     = 'https://github.com/xuzhenguo/TestMyPod.git'
     s.license      = 'MIT'
